@@ -21,3 +21,11 @@ It's great! It'll be watching all files in your source folder looking for change
 - Create a PORT variable
 
 export PORT=5000
+
+
+# Run the application
+
+nodemon index.js
+
+# Check the content using the URL below
+http://localhost:5000/
