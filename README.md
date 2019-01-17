@@ -29,3 +29,8 @@ nodemon index.js
 
 # Check the content using the URL below
 http://localhost:5000/
+
+
+year/month route example:
+
+http://localhost:5000/api/posts/2018/1
